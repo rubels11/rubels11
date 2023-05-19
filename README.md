@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmud Hasan</h1>
 <h3 align="center">A passionate developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Vue**
 
 - 🤝 I’m looking for help with **JavaScript**
 
